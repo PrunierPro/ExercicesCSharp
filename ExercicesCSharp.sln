@@ -65,23 +65,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice30", "Exercice30\Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice31", "Exercice31\Exercice31.csproj", "{E868888E-2FB0-41CB-B840-508B848288B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceBonusFibonnaci", "ExerciceBonusFibonnaci\ExerciceBonusFibonnaci.csproj", "{CA37F3DD-FBA9-47FA-BD8D-197C2DB151E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExerciceBonusFibonnaci", "ExerciceBonusFibonnaci\ExerciceBonusFibonnaci.csproj", "{CA37F3DD-FBA9-47FA-BD8D-197C2DB151E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice32", "Exercice32\Exercice32.csproj", "{52F2216E-4460-4628-8128-5EECF397B3EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice32", "Exercice32\Exercice32.csproj", "{52F2216E-4460-4628-8128-5EECF397B3EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice33", "Exercice33\Exercice33.csproj", "{19227383-9D1F-402C-943B-B7A5EF945040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice33", "Exercice33\Exercice33.csproj", "{19227383-9D1F-402C-943B-B7A5EF945040}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice34", "Exercice34\Exercice34.csproj", "{FB9396C2-7422-4CA3-AE57-F2D98E879C33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice34", "Exercice34\Exercice34.csproj", "{FB9396C2-7422-4CA3-AE57-F2D98E879C33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice35", "Exercice35\Exercice35.csproj", "{17313634-8801-4C8B-8B03-661A2B17BDAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice35", "Exercice35\Exercice35.csproj", "{17313634-8801-4C8B-8B03-661A2B17BDAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice36", "Exercice36\Exercice36.csproj", "{18B564B3-0278-4B88-95B7-2AEC048F1E92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice36", "Exercice36\Exercice36.csproj", "{18B564B3-0278-4B88-95B7-2AEC048F1E92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice37", "Exercice37\Exercice37.csproj", "{99AA5F62-E7B6-44B2-AC85-4FCEC9F6BAE0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice37", "Exercice37\Exercice37.csproj", "{99AA5F62-E7B6-44B2-AC85-4FCEC9F6BAE0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice38", "Exercice38\Exercice38.csproj", "{3485912E-61C3-45CB-9672-F17F45482294}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice38", "Exercice38\Exercice38.csproj", "{3485912E-61C3-45CB-9672-F17F45482294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercice39", "Exercice39\Exercice39.csproj", "{377C04A8-D8BE-42C6-84D2-85FA5586AA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercice39", "Exercice39\Exercice39.csproj", "{377C04A8-D8BE-42C6-84D2-85FA5586AA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceTuple", "ExerciceTuple\ExerciceTuple.csproj", "{DFBA4813-052D-4792-A9A3-6E56907CD152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciceADN", "ExerciceADN\ExerciceADN.csproj", "{83ED4192-41C7-4209-A547-CF1A6C08A203}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +253,14 @@ Global
 		{377C04A8-D8BE-42C6-84D2-85FA5586AA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{377C04A8-D8BE-42C6-84D2-85FA5586AA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{377C04A8-D8BE-42C6-84D2-85FA5586AA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBA4813-052D-4792-A9A3-6E56907CD152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBA4813-052D-4792-A9A3-6E56907CD152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBA4813-052D-4792-A9A3-6E56907CD152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBA4813-052D-4792-A9A3-6E56907CD152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83ED4192-41C7-4209-A547-CF1A6C08A203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ED4192-41C7-4209-A547-CF1A6C08A203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ED4192-41C7-4209-A547-CF1A6C08A203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ED4192-41C7-4209-A547-CF1A6C08A203}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
